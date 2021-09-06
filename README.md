@@ -1,2 +1,2 @@
-# IA_UNISINOS
-Fundamentos de Inteligência Artificial - UNISINOS
+# PIVC_UNISINOS
+Processamento de Imagens e Visão Computacional - UNISINOS
