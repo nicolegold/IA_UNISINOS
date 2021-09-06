@@ -1,6 +1,6 @@
 # Processamento de Imagens
 **Imagens utilizadas**
-* Urso[https://github.com/nicolegold/ProcessamentoImagens/blob/main/urso1.jpg)
+* [Urso](https://github.com/nicolegold/ProcessamentoImagens/blob/main/urso1.jpg)
 
 
 **Códigos**
