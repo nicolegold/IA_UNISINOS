@@ -1,2 +1,1 @@
-# PIVC_UNISINOS
-Processamento de Imagens e Visão Computacional - UNISINOS
+Processamento de Imagens
